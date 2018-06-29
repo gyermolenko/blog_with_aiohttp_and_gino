@@ -1,0 +1,21 @@
+-e .
+
+aiohttp
+aiohttp_jinja2
+bcrypt
+pytoml
+aiohttp_security[session]
+aioredis
+
+# database
+sqlalchemy
+asyncpg
+gino
+aiocontextvars
+
+# dev
+psycopg2
+
+# testing
+pytest
+pytest-aiohttp

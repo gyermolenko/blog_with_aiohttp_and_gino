@@ -1,0 +1,13 @@
+[database]
+
+DB_HOST = 'localhost'
+DB_PORT = 5433
+
+DB_NAME = 'aiohttp_blog'
+DB_USER = 'aiohttp_user'
+DB_PASS = 'aiohttp_pass'
+
+[redis]
+
+REDIS_HOST = 'localhost'
+REDIS_PORT = 6379
